@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Este circuito incluye dos compuertas logicas de tipo:AND.Los pines de entrada estan conectados a cada compuerta esta conectada a los pines de salida.
 
 ## How to test
 
-Explain how to use your project
+Conectar un dip switch de 8 pines
 
 ## External hardware
 
